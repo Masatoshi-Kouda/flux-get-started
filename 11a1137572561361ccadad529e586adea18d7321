@@ -1,0 +1,1 @@
+{"jobID":"72defdea-bada-e09c-4e9f-12834137fe97","spec":{"type":"policy","cause":{"Message":"","User":"Masatoshi-Kouda \u003cmasatoshi.kouda@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
